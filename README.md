@@ -1,4 +1,4 @@
-#Learnyounode
+# Learnyounode
 
 This was a very tough exercise for me, at the beginning of every new exercise i felt like it was in chinese. But after the exercise a few times i finished the first 5 exercises.
 
@@ -10,4 +10,4 @@ I hope to finish the exercise next week when i have more time but for now i have
 
 Annotations also helped me to understand what i was doing better. I only did it for the fifth exercise but wil keep on doing it for every exercise now.
 
-![Screenshot of learnyounode](/lyn)
+![Screenshot of learnyounode](/lyn.png)
